@@ -1,4 +1,4 @@
-# React E-Commerce With FakeStoreAPI
+# React E-Commerce FakeStoreAPI
 - npm install
 - npm start
 ## Công Nghệ Đã Dùng
