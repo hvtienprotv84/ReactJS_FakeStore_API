@@ -1,4 +1,4 @@
-#E-Commerce FakeStoreAPI
+# E-Commerce FakeStoreAPI
 - npm install
 - npm start
 ## Công Nghệ Đã Dùng
