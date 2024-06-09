@@ -3,7 +3,7 @@
 - npm start
 ## Công Nghệ Đã Dùng
 - ReactJS
-- Styled-components
+- Styled-Components
 - [FakeStoreApi](https://fakestoreapi.com/)
 
 
